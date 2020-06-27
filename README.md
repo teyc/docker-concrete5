@@ -16,7 +16,7 @@ You can start the image by using bash or Powershell (see below). Then navigate t
 When prompted, you should set
 
 ```
-Database: localhost
+Database: 127.0.0.1
 Database user: c5_user
 Database password: c5_password
 ```
